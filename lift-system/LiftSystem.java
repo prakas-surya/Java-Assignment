@@ -32,7 +32,7 @@ public class LiftSystem {
 			case 2 : assignLift(); break;
 			case 3 : assignLiftToUser(); break;
 			case 4 : assignNearestLift(); break;
-			case 5 : assignNearestAccessibleLift();
+			case 5 : assignNearestAccessibleLift(); break;
 			case 6 : System.exit(0);
 			default : System.exit(0);
 			}
